@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-st.title("Welcome TO Gemini AI")
+st.title("Welcome TO A13 AI")
 
 
 
